@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0880914-4f57-41c4-8f5c-24953d29777a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/AnagramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/RotationChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/VowelCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/WordReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MovingZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Product1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Rotaing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AnagramCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RotationCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/VowelCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WordReverserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bMh6nbeDCIubiRnUFwjqWSvjQ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AnagramCheckerTest.executor": "Run",
+    "JUnit.AnagramTest.executor": "Run",
+    "JUnit.RotationCheckerTest.executor": "Run",
+    "JUnit.RotationCheckerTest.testIsRotation.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dinesh Ravipati/OneDrive - The University of Texas at Dallas/Desktop/Mvn"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dinesh Ravipati\OneDrive - The University of Texas at Dallas\Desktop\Mvn\MavenDin\src\main\java" />
+      <recent name="C:\Users\Dinesh Ravipati\OneDrive - The University of Texas at Dallas\Desktop\Mvn\MavenDin\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dinesh Ravipati\OneDrive - The University of Texas at Dallas\Desktop\Mvn\MavenDin\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RotationCheckerTest.testIsRotation">
+    <configuration name="AnagramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenDin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnagramCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotationCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenDin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RotationCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotationCheckerTest.testIsRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenDin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RotationCheckerTest" />
+      <option name="METHOD_NAME" value="testIsRotation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RotationCheckerTest.testIsRotation" />
+        <item itemvalue="JUnit.RotationCheckerTest" />
+        <item itemvalue="JUnit.AnagramCheckerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0880914-4f57-41c4-8f5c-24953d29777a" name="Changes" comment="" />
+      <created>1706030686175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706030686175</updated>
+    </task>
+    <servers />
+  </component>
+</project>
