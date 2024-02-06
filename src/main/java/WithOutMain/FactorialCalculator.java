@@ -1,3 +1,4 @@
+package WithOutMain;
 public class FactorialCalculator {
     // Function to calculate factorial
     public static long calculateFactorial(int n) {

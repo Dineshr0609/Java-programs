@@ -1,6 +1,7 @@
+package Strings;
+
 import java.lang.String;
 
-import Strings.WordReverser;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

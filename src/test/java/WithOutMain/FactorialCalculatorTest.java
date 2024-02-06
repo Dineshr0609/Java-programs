@@ -1,3 +1,4 @@
+package WithOutMain;
 import org.junit.*;
 
 

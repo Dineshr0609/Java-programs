@@ -1,5 +1,4 @@
-// PalindromeChecker.java
-
+package WithOutMain;
 public class PalindromeChecker {
 
     // Function to check if a number is a palindrome

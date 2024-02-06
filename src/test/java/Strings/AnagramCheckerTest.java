@@ -1,5 +1,6 @@
+package Strings;
+
 import org.junit.Test;
-import Strings.AnagramChecker;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;
 
